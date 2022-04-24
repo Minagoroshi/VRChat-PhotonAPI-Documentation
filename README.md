@@ -1,3 +1,6 @@
+# moved to https://github.com/vrchatphoton/vrchatphoton.github.io
+# moved to https://github.com/vrchatphoton/vrchatphoton.github.io
+# moved to https://github.com/vrchatphoton/vrchatphoton.github.io
 
 # VRChat Photon API Docs
 
